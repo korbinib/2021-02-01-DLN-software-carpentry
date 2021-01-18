@@ -262,7 +262,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <h2 id="registration">Registration</h2>
 
-<p>Please sign up <a href="https://nettskjema.no/a/178162">here</a>. 
+<p>Please sign up <strong><a href="https://nettskjema.no/a/178162">here</a></strong>. 
 
 We will send you more information before the course. Please let us know if you encounter any issues.</p>
 

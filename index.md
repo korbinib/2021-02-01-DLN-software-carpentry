@@ -264,7 +264,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 ~~<p>Please sign up <strong><a href="https://nettskjema.no/a/178162">here</a></strong>.~~ 
 
-The workshop is fully booked. If you are interested in a future event, you can check <a href=https://www.digitallifenorway.org/events/> for future Digital Life events</a> or <a href=https://carpentries.org/> other carpentries workshops</a>
+The workshop is fully booked. If you are interested in a future event, you can check <a href="https://www.digitallifenorway.org/events/"> for future Digital Life events</a> or <a href="https://carpentries.org/"> other carpentries workshops</a>
 
 We will send you more information before the course. Please let us know if you encounter any issues.</p>
 
